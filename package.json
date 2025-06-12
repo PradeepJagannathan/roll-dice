@@ -1,7 +1,7 @@
 {
   "name": "diceroll",
   "private": true,
-  "homepage": "https://PradeepJagannathan.github.io/<gitHubreponame>",
+  "homepage": "https://PradeepJagannathan.github.io/roll-dice",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
